@@ -1,7 +1,5 @@
 package com.example.habittracker.ui.theme
 
-package com.example.habittracker
-
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.itemsIndexed
