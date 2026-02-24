@@ -25,7 +25,7 @@ fun HabitListScreen(modifier: Modifier = Modifier) {
     Scaffold(
         floatingActionButton = {
             FloatingActionButton(onClick = { showAddDialog = true }) {
-                Icon(Icons.Default.Add, contentDescription = "Adicionar hábito")
+                //Icon(Icons.Default.Add, contentDescription = "Adicionar hábito")
             }
         },
         modifier = modifier
