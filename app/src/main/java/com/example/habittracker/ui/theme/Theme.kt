@@ -27,12 +27,7 @@ private val LightColorScheme = lightColorScheme(
     tertiary =
 )
 
-@Composable
-fun HabitTrackerTheme(
-    darkTheme: Boolean = isSystemInDarkTheme(),
-    dynamicColor: Boolean = true,
-    content: @Composable () -> Unit
-) {
+
 
 
 
