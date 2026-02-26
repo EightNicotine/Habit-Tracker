@@ -50,5 +50,9 @@ fun HabitTrackerTheme(
         }
     }
 
-
+    MaterialTheme(
+        colorScheme = colorScheme,
+        typography = MaterialTheme.typography,
+        content = content
+    )
 }
