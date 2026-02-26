@@ -21,7 +21,11 @@ private val DarkColorScheme = darkColorScheme(
     tertiary =
 )
 
-
+private val LightColorScheme = lightColorScheme(
+    primary = ,
+    secondary = ,
+    tertiary =
+)
 
 
 
